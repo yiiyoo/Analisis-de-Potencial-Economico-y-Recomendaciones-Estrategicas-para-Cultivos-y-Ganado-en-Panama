@@ -21,7 +21,7 @@ Este análisis contribuye a la toma de decisiones fundamentadas para agricultore
 
 ## Estructura del Repositorio
 
-```bash
+```
 ├── data/
 │   ├── produccion_faostat.csv
 │   └── comercio_faostat.csv
@@ -32,11 +32,11 @@ Este análisis contribuye a la toma de decisiones fundamentadas para agricultore
 │   ├── crecimiento_productos.png
 │   └── correlaciones_valor_area.png
 ├── README.md
-└── requirements.txt```
-
+└── requirements.txt
+```
 ---
 
-## **Metodología**
+## Metodología
 
 Fuente de Datos:
 
