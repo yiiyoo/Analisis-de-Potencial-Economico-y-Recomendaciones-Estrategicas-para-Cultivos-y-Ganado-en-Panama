@@ -34,6 +34,8 @@ Este análisis contribuye a la toma de decisiones fundamentadas para agricultore
 ├── README.md
 └── requirements.txt```
 
+---
+
 ## **Metodología**
 
 Fuente de Datos:
